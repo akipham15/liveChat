@@ -5,6 +5,11 @@
 npm install
 ```
 
+## Project setup firebase config
+```
+/src/firebase/config.js must update firebaseConfig
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
