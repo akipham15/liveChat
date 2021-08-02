@@ -27,3 +27,5 @@ serve -s dist
 ```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Try deploy site at: https://vue-live-server.web.app
